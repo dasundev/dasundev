@@ -1,0 +1,13 @@
+<svg id="White_Logo" data-name="White Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="263" height="263" viewBox="0 0 263 263">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="263" height="263" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="263" height="263" fill="none"/>
+  <g id="Group_1" data-name="Group 1" clip-path="url(#clip-path)">
+    <path id="Path_1" data-name="Path 1" d="M322.492,260.92h-2.513v17.725a37.024,37.024,0,0,1-.263,74.048H296.441V301.373H277.4v68.791h45.092a54.609,54.609,0,1,0,0-109.218" transform="translate(-186.144 -175.085)" fill="#fff"/>
+    <path id="Path_2" data-name="Path 2" d="M238.554,224.772h23.538V207.05H219.51v40.463h19.044Z" transform="translate(-147.298 -138.937)" fill="#fff"/>
+  </g>
+  <rect id="Rectangle_3" data-name="Rectangle 3" width="263" height="263" fill="none"/>
+</svg>
