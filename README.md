@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Freelancer at Fiverr.
+- 💼 &nbsp; Working as a freelancer at Fiverr(Level 2 Seller).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Graphic designing and traveling is a hobby.
 <h3> 🛠 &nbsp;Tech Stack</h3>
