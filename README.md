@@ -34,6 +34,9 @@
  
 <br/>
 
+![Dasun Tharanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasundev&show_icons=true&theme=prussian)
+
+
 <p align="center">
 <a href="https://www.dasun.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.dasun.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/dasundev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dasundev-blue?style=flat-square&logo=linkedin"></a>
