@@ -18,15 +18,15 @@ class Bio extends IAM {
   
   public $learning = ['Cloud Architecture', 'Artificial Intelligence', 'Machine Learning'];
   
-  public $hobbies = ['travelling', 'hiking', 'swimming'];
+  public $hobbies = ['Travelling', 'Hiking', 'Swimming'];
   
 }
 
 class Skills extends IAM {
 
-  public $languages = ['php', 'javascript', 'python', 'dart', 'c', 'html', 'css'];
+  public $languages = ['PHP', 'Javascript', 'Python', 'Dart', 'C', 'HTML', 'CSS'];
   
-  public $frameworks = ['laravel', 'django', 'react', 'flutter', 'vue'];
+  public $frameworks = ['Laravel', 'Django', 'React', 'Flutter', 'Vue'];
   
 }
 ```
