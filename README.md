@@ -4,32 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dasundev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-318CD8?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dasundev)
 [![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-f48025?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/11287544/dasun-tharanga)
-```php
-use App\IAM;
-
-class Bio extends IAM {
-
-  public $name = 'Dasun Tharanga';
-  
-  public $title = 'Full Stack Developer';
-  
-  public $location = 'Embilipitiya, LK';
-  
-  public $job = 'Freelancing';
-  
-  public $learning = ['Cloud Architecture', 'Artificial Intelligence', 'Machine Learning'];
-  
-  public $hobbies = ['Travelling', 'Hiking', 'Swimming'];
-  
-}
-
-class Skills extends IAM {
-
-  public $languages = ['PHP', 'Javascript', 'Python', 'Dart', 'C', 'HTML', 'CSS'];
-  
-  public $frameworks = ['Laravel', 'Django', 'React', 'Flutter', 'Vue'];
-  
-}
-```
-</br>
 
